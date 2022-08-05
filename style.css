@@ -1,0 +1,42 @@
+
+
+body{
+    background-size:cover;
+}
+
+.copy_right_footer{
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    background-color:blueviolet;
+    font-size: 18px;
+    line-height: 3;
+    text-shadow: 5px 5px 5px gray;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    background-color:lightblue;
+    border-color: lightblue;
+}
+
+.note{
+    color: black;
+    font-size: 16px;
+
+}
+
+#speed{
+    width: 150px;
+    border: 3px black dashed;
+}
+
+canvas{
+    border: 3px lightblue solid;
+    box-shadow: 5px 5px 5px grey;
+    background-color: white ;
+}
